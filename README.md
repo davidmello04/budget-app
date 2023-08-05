@@ -3,6 +3,8 @@ O Budget App é uma aplicação web simples para o registro e acompanhamento de 
 
 ## Screenshots
 ### Tela de cadastro das despesas ![image](https://github.com/davidmello04/budget-app/assets/102268159/78523f5f-c0d6-4f98-b3b4-38e9fbaab0d4)
+### Tela de despesa cadastrada ![image](https://github.com/davidmello04/budget-app/assets/102268159/85a98914-cdb7-45a6-9b2d-b7c04d45b328)
+### Tela de consulta de despesas ![image](https://github.com/davidmello04/budget-app/assets/102268159/cdfb77ba-48c1-4de6-9bb9-f9ac4a839ec3)
 
 
 ## Funcionalidades
