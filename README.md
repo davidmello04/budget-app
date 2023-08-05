@@ -31,4 +31,4 @@ O Budget App é uma aplicação web simples para o registro e acompanhamento de 
 
 
 ## Contribuição
-Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork, criar um branch e enviar um pull request. Ficaremos felizes em analisar suas contribuições!
+Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork, criar um branch e enviar um pull request. Ficarei feliz em analisar suas contribuições!
