@@ -7,7 +7,7 @@ O Budget App é uma aplicação web simples para o registro e acompanhamento de 
 ### Tela de consulta de despesas ![image](https://github.com/davidmello04/budget-app/assets/102268159/cdfb77ba-48c1-4de6-9bb9-f9ac4a839ec3)
 
 
-## Funcionalidades
+## Funcionalidadesa
 
 * Registro de despesas: Os usuários podem adicionar novas despesas, fornecendo detalhes como a data da despesa, categoria, descrição e valor.
 * Categorização: As despesas são organizadas por categorias, o que facilita a visualização e o acompanhamento dos gastos em diferentes áreas.
